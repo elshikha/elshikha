@@ -7,6 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 # 💫 About Me:
 I am Mahmoud elShikha, a skilled Cyber Security enthusiast with a strong foundation in Computing and Information Sciences. Proficient in languages such as Python, C, and SQL, I bring hands-on experience from internships focused on network analysis and encryption tools. Eager to contribute my expertise in the dynamic field of Cyber Security.
 
+<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/elshikha.png" width="300" />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100055414586452) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/http://www.instagram.com/m7moud.3ala) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-elshikha/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://www.x.com/medo3ala) 
